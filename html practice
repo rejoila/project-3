@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My College Webpage</title>
+</head>
+<body>
+
+    <h1>Welcome to My College Webpage</h1>
+
+    <h2>About My College</h2>
+    <p>
+        My college provides students with opportunities to learn,
+        develop skills and participate in various activities.
+    </p>
+
+    <h2>My Favourite Subjects</h2>
+    <ul>
+        <li>Computer Applications</li>
+        <li>Web Designing</li>
+        <li>Information Technology</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: student@example.com</p>
+
+</body>
+</html>
